@@ -34,9 +34,11 @@ cat message_decrypted.txt
 During decryption, OpenSSL prompts for the same password used during encryption.
 If the password is incorrect, decryption will fail.
 
-Some keypoints to take note of;
+## Some keypoints to take note of;
 -Encryption protects data confidentiality
 -Anyone with the coreect password can decrypt the data
 -Encryption alone does not secure systems 
 -Strong passwords and access control are critical
 
+## Lab Evidence 
+The screenshot below shows the encryption and decryption process performed in the Linux terminal
